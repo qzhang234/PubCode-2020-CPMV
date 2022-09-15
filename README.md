@@ -1,5 +1,5 @@
 
-Jupyter Notebook files for analyzing XPCS data and generating figures. Vector graphic figures (`.pdf`) generated from Jupyter Notebooks are used directly in \textit{Overleaf} manuscript without any further scaling or editing.
+Jupyter Notebook files for analyzing XPCS data and generating figures. Vector graphic figures (`.pdf`) generated from Jupyter Notebooks are used directly in *Overleaf* manuscript without any further scaling or editing.
 
 ### Data Structures
 
