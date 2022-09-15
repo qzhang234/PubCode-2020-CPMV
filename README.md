@@ -3,7 +3,7 @@ Jupyter Notebook files for analyzing XPCS data and generating figures. Vector gr
 
 ### Data Structures
 
-#### * ./Reduced_Data/SAXS_AbsCroSec.ipynb:
+#### ./Reduced_Data/SAXS_AbsCroSec.ipynb:
 * Copies the manullay-averaged hdf files for SAXS (big roung beamstop mask) from `/net/wolf`;
 * Recalculates `saxs_1d` in the unit of absolute cross-sections;
 * Repacks `saxs_1d` into the hdf field and generates fixed hdf file with extension `SAXS_Abs_Cross` 
