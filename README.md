@@ -1,5 +1,5 @@
 
-Jupyter Notebook files for analyzing XPCS data and generating figures. Vector graphic figures (`.pdf`) generated from Jupyter Notebooks are used directly in *Overleaf* manuscript without any further scaling or editing.
+Jupyter Notebook files for analyzing XPCS data and generating figures. The data readout and analysis code is built on [*pyXpcsViewer*][https://github.com/AdvancedPhotonSource/pyXpcsViewer] (Miaoqi Chu *et al.*, J. Synchrotron Rad.  29,  1122 [2022])  Vector graphic figures (`.pdf`) generated from Jupyter Notebooks are used directly in *Overleaf* manuscript without any further scaling or editing.
 
 #### ./Analysis/Plot_SAXS.ipynb
 * Generates stacked SAXS 1D and SAXS 2D figure (Fig. 2)
@@ -11,4 +11,4 @@ Jupyter Notebook files for analyzing XPCS data and generating figures. Vector gr
 * Generates τ<sub>0</sub>(Q) vs. Q figure for Sample A, B and C (Fig. 4)
 
 #### ./Reduced_Data
-* Contains data for replotting the figures in the main manuscript
+* Contains g<sub>2</sub> and I vs. Q data for replotting the figures in the main manuscript. The data files can be opened directly in *pyXpcsviewer*.
