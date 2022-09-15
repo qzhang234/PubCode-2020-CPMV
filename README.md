@@ -9,3 +9,6 @@ Jupyter Notebook files for analyzing XPCS data and generating figures. Vector gr
 
 #### ./Analysis/Plot_tauQ_AllSamples.ipynb
 * Generates τ<sub>0</sub>(Q) vs. Q figure for Sample A, B and C (Fig. 4)
+
+#### ./Reduced_Data
+* Contains data for replotting the figures in the main manuscript
