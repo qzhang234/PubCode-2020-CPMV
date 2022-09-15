@@ -1,7 +1,7 @@
 
 Jupyter Notebook files for analyzing XPCS data and generating figures. The data readout and analysis code is built on [*pyXpcsViewer*](https://github.com/AdvancedPhotonSource/pyXpcsViewer). See Miaoqi Chu *et al.*, [J. Synchrotron Rad. **29**, 1122 (2022)](https://scripts.iucr.org/cgi-bin/paper?S1600577522004830). 
 
-Vector graphic figures (`.pdf`) are generated in JupyterLab using [Matplotlib](https://matplotlib.org/) and are uploaded directly to *Overleaf* without any further scaling or editing.
+Vector graphic figures (`.pdf`) are generated in JupyterLab using [Matplotlib](https://matplotlib.org/) and are uploaded directly to [*Overleaf*](https://www.overleaf.com/) without any further scaling or editing.
 
 ### Data Structure:
 
